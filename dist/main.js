@@ -1,0 +1,1 @@
+(()=>{const e=document.querySelector(".content"),t=e.createElement("h1");t.textContent("My To-do-List App"),e.appendChild(t)})();
