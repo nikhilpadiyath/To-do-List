@@ -1,5 +1,5 @@
 export const blankProjectLoad = ()=> {
-    console.log("Called blankProjectLaod Module, creating balnk prject array now");
+    console.log("Called blankProjectLoad Module, creating blank project array now");
     let projectArray = [];
     let projectTitle = "Default project";
     projectArray.push({projectTitle});
