@@ -24,3 +24,12 @@ h1 {
     border-style: groove;
 }
 
+label{
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    background-color: brown;
+    height: 30px;
+}
