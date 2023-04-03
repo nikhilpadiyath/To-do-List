@@ -3,6 +3,7 @@ import { createToDo } from './create-to-do.js';
 import { blankProjectLoad } from './blank-project-load.js';
 import { displayDefaultProject, displayTheForm, addItemToChecklist, clearForm } from './initial-dom-manip.js';
 import './style.css';
+
 document.addEventListener('DOMContentLoaded',(event) => {
 blankProjectLoad();
 //initialdomManip();
